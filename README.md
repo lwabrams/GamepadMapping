@@ -2,6 +2,8 @@
 
 A minimal, customizable, and easy to use macOS utility to map Game Controller inputs to Keyboard and Mouse events. This allows users to use a gamepad with applications or games that do not natively support controllers (e.g., Minecraft Java Edition).
 
+[![View a demo of the app](https://img.youtube.com/vi/MWQU1xGHG7o/maxresdefault.jpg)](https://youtu.be/MWQU1xGHG7o)
+
 ## Features
 
 Input mapping:
